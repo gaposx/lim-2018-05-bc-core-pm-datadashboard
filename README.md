@@ -1,9 +1,9 @@
 # Data Dashboard
 
 ## Integrantes
-* Gabriela
-* Lulú
-* Gonzalo
+* Gabriela Segura
+* Lulú Vílchez
+* Gonzalo Parra
 
 ## Preámbulo
 
