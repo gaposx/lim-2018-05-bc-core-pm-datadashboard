@@ -1,5 +1,10 @@
 # Data Dashboard
 
+## Integrantes
+* Gabriela
+* Lulú
+* Gonzalo
+
 ## Preámbulo
 
 En Laboratoria, las Training Managers (TMs) hacen un gran trabajo al analizar la
