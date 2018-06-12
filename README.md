@@ -1,4 +1,5 @@
 # Data Dashboard
+Proyecto 2 del common core
 
 ## Integrantes
 * Gabriela Segura
